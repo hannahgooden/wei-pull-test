@@ -1,0 +1,9 @@
+
+version: "1"
+rules:
+  - base: main
+    upstream: cabishop:main
+    mergeMethod: merge
+    reviewers:
+      - cabishop
+      - hannahgooden
