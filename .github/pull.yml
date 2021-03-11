@@ -10,5 +10,3 @@ rules:
     assignees:
       - cabishop
       - hannahgooden
-env:
-  - PULL_INTERVAL: 60
