@@ -5,3 +5,4 @@ Hey?
 Good morning. 
 Good bye!
 Morning. 
+Hi!
